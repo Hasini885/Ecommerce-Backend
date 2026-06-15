@@ -122,10 +122,3 @@ GET /orders
 }
 ```
 
----
-
-## Author
-
-**Hasini**
-B.Tech CSE Student
-SRM University AP
